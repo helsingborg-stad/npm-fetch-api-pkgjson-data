@@ -1,0 +1,24 @@
+{
+  "name": "npm-fetch-api-pkgjson-data",
+  "version": "1.0.0",
+  "description": "Fetch and compile base url response",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helsingborg-stad/npm-fetch-api-pkgjson-data.git"
+  },
+  "keywords": [
+    "base",
+    "url",
+    "response"
+  ],
+  "author": "Ehsan Zilaei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/helsingborg-stad/npm-fetch-api-pkgjson-data/issues"
+  },
+  "homepage": "https://github.com/helsingborg-stad/npm-fetch-api-pkgjson-data#readme"
+}
