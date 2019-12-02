@@ -15,6 +15,9 @@
     "url",
     "response"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Ehsan Zilaei",
   "license": "MIT",
   "bugs": {
